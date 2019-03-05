@@ -1,5 +1,6 @@
 body {
 	font-family: 'Arial', sans-serif;
+
 	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4ATR6Ce6giltbo8pp/social-networking-concept-on-computer-display-with-animated-icons-dots-and-lines-of-molecule-on-blue-background-4k-video_r0lfpozj_thumbnail-full01.png");
 }
 
@@ -27,6 +28,7 @@ p {
 	line-height: 1.75;
 	margin: auto;
 	font-size: 1.2em;
+	color: white;
 }
 
 footer {
@@ -47,7 +49,7 @@ form {
 }
 
 a {
-	color: #5cb85c;
+	color: black;
 	font-size: 20px;
 }
 
